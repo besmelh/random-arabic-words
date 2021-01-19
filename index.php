@@ -1,3 +1,3 @@
 <?php
-include_once("words.json");
+include_once("arabicWords.json");
  ?>
